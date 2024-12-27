@@ -5,7 +5,7 @@ import plotly.express as px
 
 
 # Carregar o dataset
-file = open('df_new_4.csv')
+file = open('pages\df_new_4.csv')
 data = pd.read_csv(file)
 
 
